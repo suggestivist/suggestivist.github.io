@@ -3,6 +3,10 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+.container {
+    max-width: 2560px;
+}
+
 ul.menu {
     list-style-type: none;
     margin: 0;
