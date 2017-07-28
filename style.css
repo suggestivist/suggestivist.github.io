@@ -1,5 +1,5 @@
 body {
-	background-color: lightgray;
+	background-color: #e7e7fa;
 	font-family: Helvetica, Arial, sans-serif;
 	margin-left: 25%;
 	margin-right: 25%;
@@ -12,7 +12,7 @@ ul.menu {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: #66669f;
 }
 
 li.menu {
@@ -32,7 +32,7 @@ li.menu a:hover {
 }
 
 .header, .footer {
-    background-color: #434343;
+    background-color: #c8c8fa;
     color: white;
     padding: 20px;
 }
@@ -46,7 +46,7 @@ li.menu a:hover {
 }
 
 li.activemenu {
-	background-color: gray;
+	background-color: #a4a4ff;
 	color: white;
 }
 
