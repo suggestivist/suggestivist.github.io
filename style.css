@@ -8,7 +8,7 @@ ul.menu {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: #3477ff;
 }
 
 li.menu {
@@ -28,7 +28,7 @@ li.menu a:hover {
 }
 
 .header, .footer {
-    background-color: #434343;
+    background-color: #b6c5e5;
     color: white;
     padding: 15px;
 }
@@ -42,7 +42,7 @@ li.menu a:hover {
 }
 
 li.activemenu {
-	background-color: gray;
+	background-color: #b1cbff;
 	color: white;
 }
 
