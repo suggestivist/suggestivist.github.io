@@ -28,7 +28,7 @@ li.menu a:hover {
 }
 
 .header, .footer {
-    background-color: #75a2ff;
+    background-color: #456e8b;
     color: white;
     padding: 15px;
 }
@@ -42,7 +42,7 @@ li.menu a:hover {
 }
 
 li.activemenu {
-	background-color: #7fcaff;
+	background-color: #5c94bb;
 	color: white;
 }
 
