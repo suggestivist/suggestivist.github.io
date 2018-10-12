@@ -1,2 +1,2 @@
-# suggestivist.github.io
-Suggestivist's official website.
+# The Suggestivist's Official Website
+This is the official website of Suggestivist music group which was created by Boby Selamet Hartono in 2016.
