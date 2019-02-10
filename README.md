@@ -4,4 +4,4 @@ This is the official website of Suggestivist music group which was created by Bo
 This is also a repository of some of Suggestivist's musics.
 
 ## Copyright
-All of Suggestivist's musics are property of the sole owner Boby Selamet Hartono
+All of Suggestivist's musics are property of the sole owner Boby Selamet Hartono.
